@@ -1,0 +1,27 @@
+-Thêm ảnh vào cho user : cho ảnh vào folder data/user và đặt tên theo cú pháp tên_'+sđt.jpg VD : py_'0375143973.jpg
+
+
+-Training with data : chọn folder có chứa các ảnh và tất cả ảnh phải đặt tên theo cú pháp tên_'+sđt_số ảnh.jpg VD: ảnh 1 py_'0375143973_0.jpg
+													       ảnh 2 py_'0375143973_1.jpg
+													       ảnh 3 py_'0375143973_2.jpg
+													       ....
+ Sau khi training with data hãy vào thư mục user.csv để nhập các thông tin còn thiếu cho người mới được add vào
+
+
+-Training by camera : vui lòng chuẩn bị camera cho máy tính và đã kết nối , yêu cầu cam rõ nét ,giữ khung hình để lấy ảnh training sẽ 
+tự động tắt hoặc nhấn nút 'q' không viết hoa để tắt thu thập và tiến hành training .
+
+
+Không khuyến khích sử dụng training with data , bởi vì sẽ có khả năng nhận diện sai , nếu dùng hãy sử dụng ít nhất 5 ảnh nhiều góc 
+mặt ,lệch trái 30 độ,lệch phải 30 độ ,hướng lên 10 độ ,xuống 10 độ ,nhìn thẳng , nói chung là các góc mặt nhưng không được quá nghiêng làm 
+cho model không detect được khuôn mặt
+
+
+
+
+
+
+
+
+Nếu có thắc mắc hãy liên hệ số zalo:0375143973 hoặc fb:https://www.facebook.com/hdhd.nha.5/ để được hỗ trợ.
+Người dùng không copy hoặc thương mại đối với bất kỳ hình thức nào khi không có sự đồng ý của mình .Xin cám ơn !!! 
